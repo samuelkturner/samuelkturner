@@ -4,7 +4,7 @@
 
 - <b>Azure / Cloud Projects</b>
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/samuelkturner/azure-net)
-  - [Cloud Based Active Directory Setup and User Management](http://github.com/samuelkturner/azure-net)
+  - [Cloud Based Active Directory Setup and User Management](http://github.com/samuelkturner/azure-ad-lab)
 
 <h2> 🤳 Connect with me:</h2>
 
