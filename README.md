@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sam! Passionate Cybersecurity Analyst</h1>
+<h1>Hi, I'm Sam! Passionate IT Support & Cybersecurity Analyst</h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
