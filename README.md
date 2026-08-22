@@ -13,7 +13,7 @@
 - [Linux Log File Analysis, Automation & SIEM Visualization](https://github.com/samuelkturner/linux-log-analysis)
 
 **Hardware & Systems Diagnostics**
-- [Macbook Pro Hardware Repair & Display Diagnostics Lab](https://github.com/samuelkturner/mac-diagnostics-lab)
+- [Macbook Pro Hardware Diagnostics & Display Repair Lab](https://github.com/samuelkturner/mac-diagnostics-lab)
 
 ## 🤳 Connect with me:
 
