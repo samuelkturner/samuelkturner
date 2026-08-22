@@ -17,4 +17,4 @@
 
 ## 🤳 Connect with me:
 
-[![Samuel Turner | LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://linkedin.com/in/samuelkturner/) [![Samuel Turner | Instagram](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg)](https://www.instagram.com/samuelkturner/)
+[![Samuel Turner | LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://linkedin.com/in/samuelkturner/)
